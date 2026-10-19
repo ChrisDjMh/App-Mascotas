@@ -1,0 +1,10 @@
+{
+  "description": "Discover a curated selection of pet care products and services, offering a seamless shopping experience for pet owners to ensure their pets' well-being.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
